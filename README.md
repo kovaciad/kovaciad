@@ -17,11 +17,6 @@ An ESP32 desk device that sits next to my computer and works with Claude Code. A
 
 *Status: prototyping.*
 
-### Room automation
-Presence detection for my room using BLE, built around an nRF52840 and a Qorvo DW3000. When I walk in, it can control a smart fan over IR and wake my PC with Wake-on-LAN. I'm also designing a custom wall-mount holster with a locking mechanism for a charging connector.
-
-*Status: in progress.*
-
 ---
 
 Always learning, always looking for problems worth solving.
